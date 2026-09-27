@@ -117,7 +117,7 @@ window.WEDDING_DATA = {
       subtitle: "Dalwinder & Hardeep",
     },
     {
-      src: "./editable/assets/photo-field.jpg",
+      src: "./editable/assets/photo-field-upright.jpg?v=20261101",
       title: "Forever & Always",
       subtitle: "A Sacred Journey Begins",
     },
@@ -129,7 +129,7 @@ window.WEDDING_DATA = {
     footerBg: "./editable/assets/footer-bg.jpg",
     map: "./editable/assets/map.jpg",
     photoTogether: "./editable/assets/photo-together.jpg",
-    photoField: "./editable/assets/photo-field.jpg",
+    photoField: "./editable/assets/photo-field-upright.jpg?v=20261101",
     ogImage: "./editable/assets/og-image.jpg",
   },
   websiteUrl: "https://dalwinder-weds-hardeep.invitingyou.top/",
