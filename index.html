@@ -42,6 +42,46 @@
     <script src="./editable/wedding-data.js"></script>
     <script type="module" crossorigin src="./assets/index-2d1L6cXj.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/styles-DJO19CfA.css" />
+    <style>
+      /* Couple name format: Dalwinder / & / Hardeep stacked vertically */
+      h1.script {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        line-height: 1.12 !important;
+        margin-top: 0.75rem !important;
+      }
+      h1.script > span {
+        display: inline-block !important;
+        white-space: nowrap !important;
+      }
+      h1.script > span.text-gold {
+        display: block !important;
+        margin: 0.12rem 0 !important;
+        font-size: 0.52em !important;
+        line-height: 1 !important;
+      }
+
+      /* Closing couple sign-off */
+      p.script:has(> span.text-gold) {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+        line-height: 1.12 !important;
+      }
+      p.script:has(> span.text-gold) > span {
+        display: inline-block !important;
+        white-space: nowrap !important;
+      }
+      p.script:has(> span.text-gold) > span.text-gold {
+        display: block !important;
+        margin: 0.12rem 0 !important;
+        font-size: 0.58em !important;
+        line-height: 1 !important;
+      }
+    </style>
   </head>
   <body class="bg-paper text-ink selection:bg-gold/30 antialiased">
     <div id="root"></div>
