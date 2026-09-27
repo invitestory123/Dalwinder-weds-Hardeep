@@ -130,7 +130,9 @@ window.WEDDING_DATA = {
     map: "./editable/assets/map.jpg",
     photoTogether: "./editable/assets/photo-together.jpg",
     photoField: "./editable/assets/photo-field.jpg",
+    ogImage: "./editable/assets/og-image.jpg",
   },
+  websiteUrl: "https://dalwinder-weds-hardeep.invitingyou.top/",
 
   // Background Music
   music: {
