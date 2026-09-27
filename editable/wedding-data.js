@@ -130,7 +130,7 @@ window.WEDDING_DATA = {
     map: "./editable/assets/map.jpg",
     photoTogether: "./editable/assets/photo-together.jpg",
     photoField: "./editable/assets/photo-field-upright.jpg?v=20261101",
-    ogImage: "./editable/assets/og-image.jpg",
+    ogImage: "https://raw.githubusercontent.com/invitestory123/Dalwinder-weds-Hardeep/main/og-image.jpg",
   },
   websiteUrl: "https://dalwinder-weds-hardeep.invitingyou.top/",
 
