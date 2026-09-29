@@ -14,7 +14,11 @@ window.WEDDING_DATA = {
     monogram: "DH",
     side: "Bride Side",
     heroSubtitle: "Together with their families, join us to celebrate the wedding of",
+    hashtag: "#Hardil",
   },
+
+  // Wedding Celebration Hashtag
+  hashtag: "#Hardil",
 
   // Family & Parents Details
   parents: {

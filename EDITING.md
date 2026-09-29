@@ -17,6 +17,7 @@ Edit `couple` in `editable/wedding-data.js`:
 - `couple.groomRealName`: Full name of groom (e.g. `"Hardeep Singh Dhaliwal"`)
 - `couple.monogram`: Wax seal monogram (e.g. `"DH"`)
 - `couple.heroSubtitle`: Custom intro headline (e.g. `"Together with their families, join us to celebrate the wedding of"`)
+- `couple.hashtag`: Wedding celebration hashtag (e.g. `"#Hardil"`)
 
 ### Parents & Family Details
 Edit `parents` in `editable/wedding-data.js`:
